@@ -1,0 +1,6 @@
+@Movie.ali_HostAddress = http://localhost:5227
+
+GET {{Movie.ali_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
